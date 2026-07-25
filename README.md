@@ -49,16 +49,13 @@
 
   <!-- AutoCAD -->
   <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="AutoCAD" width="50" height="50"/>
+    <img src="logo.png" alt="AutoCAD" width="50" height="50"/>
   </a>
 
-  <!-- PSpice -->
-  <a href="https://www.pspice.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OrCAD_Logo.png" alt="PSpice" width="50" height="50"/>
-  </a>
+  
 
   <!-- LogicWorks -->
-  <img src="images/logicworks.png" alt="LogicWorks" width="50" height="50"/>
+  <img src="images/circuit2.png" alt="LogicWorks" width="50" height="50"/>
 </p>
 
 ### 📌 Featured Projects
