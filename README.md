@@ -24,30 +24,41 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
+  <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   </a>
+
+  <!-- MATLAB -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
   </a>
+
+  <!-- Simulink -->
   <a href="https://www.mathworks.com/products/simulink.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Simulink" width="50" height="50"/>
+    <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20250507102123670.svg" alt="Simulink" width="50" height="50"/>
   </a>
+
+  <!-- Proteus -->
   <a href="https://www.labcenter.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="50" height="50"/>
   </a>
+
+  <!-- AutoCAD -->
   <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="AutoCAD" width="50" height="50"/>
   </a>
+
+  <!-- PSpice -->
   <a href="https://www.pspice.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OrCAD_Logo.png" alt="PSpice" width="50" height="50"/>
   </a>
-  <a href="https://logicworks.en.softonic.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="LogicWorks" width="50" height="50"/>
-  </a>
+
+  <!-- LogicWorks -->
+  <img src="images/logicworks.png" alt="LogicWorks" width="50" height="50"/>
 </p>
 
 ### 📌 Featured Projects
