@@ -20,7 +20,7 @@
 - 🔭 Working across **MATLAB/Simulink, analog & digital circuit design, and embedded C**
 - 🌱 Currently deepening my skills in **DSP and automated systems design**
 - 👯 Open to collaborating on **electronics, control systems, and engineering software projects**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **zaainab.bilal1234@gmail.com**
 
 ---
 
