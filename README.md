@@ -24,19 +24,31 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=matlab,c,cpp,python,git,github,latex,vscode" alt="skills" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
+  </a>
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Simulink" width="50" height="50"/>
+  </a>
+  <a href="https://www.labcenter.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="50" height="50"/>
+  </a>
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="50" height="50"/>
+  </a>
+  <a href="https://www.pspice.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/OrCAD_Logo.png" alt="PSpice" width="50" height="50"/>
+  </a>
+  <a href="https://logicworks.en.softonic.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="LogicWorks" width="50" height="50"/>
+  </a>
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Simulink-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PSpice-004990?style=for-the-badge" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
