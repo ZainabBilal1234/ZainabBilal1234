@@ -55,7 +55,7 @@
   
 
   <!-- LogicWorks -->
-  <img src="images/circuit2.png" alt="LogicWorks" width="50" height="50"/>
+  <img src="./circuit2.png" alt="LogicWorks" width="50" height="50"/>
 </p>
 
 ### 📌 Featured Projects
