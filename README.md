@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ZainabBilal1234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Electrical+%26+Electronics+Engineer;MATLAB+%7C+Simulink+%7C+C+%7C+AutoCAD;Building+circuits%2C+systems+%26+software!" alt="Typing SVG" />
+    <img src="./1000097394.png" alt="Typing SVG" />
   </a>
 </p>
 
