@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ZainabBilal1234">
-    <img src="./1000097394.png" alt="Typing SVG" />
+    <img src="./1000097394.png" alt="Typing SVG" width="500"/>
   </a>
 </p>
 
